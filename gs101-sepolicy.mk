@@ -32,6 +32,9 @@ BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/input
 #   PowerStats HAL
 BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/powerstats
 
+# ramdump
+BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/ramdump
+
 # sscoredump
 BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/sscoredump
 
